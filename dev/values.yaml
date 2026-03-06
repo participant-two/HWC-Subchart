@@ -1,4 +1,4 @@
 hello-world-configmap:
-    replicaCount: 4
+    replicaCount: 6
     app:
       content: "patat"
