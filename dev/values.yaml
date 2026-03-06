@@ -1,4 +1,4 @@
 hello-world-configmap:
     replicaCount: 4
     app:
-      content: "Gehaktbal"
+      content: "bitterbal"
